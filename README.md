@@ -33,3 +33,9 @@ celib是使用ANSI C开发的一个扩展类库(c extend library), 包含了一�
 (14).GDB(基于hash的持久化嵌入式kv数据库); - 未完工
 
 官方首页: http://code.google.com/p/cx-util/downloads/list
+
+
+
+author: adan_shaw@qq.com
+
+2024/02/16 in shanghai
